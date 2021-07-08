@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @XxpichoclesxX
+- 🌱 I’m currently learning lua
+- 💞️ I’m looking to collaborate on 5M
