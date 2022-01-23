@@ -5,6 +5,11 @@ Thx for reading this c:
 
 ˚　　　　　　　.　　　　.　　　　　　 ✦　　　　　˚　　　　　. ✦ 　　　　.   　 　✦　˚　　　　　*　　 　　　　　.　　　.　　　　　　˚ ✦　　˚　　　　　.　　˚　　　　　　✦　. ✦　　˚.　.　　　　　　˚ ✦　　˚　　　　　.　　˚　　　　　　.　　˚　　　　　　.　　˚　　　　　
 
+![Pichocles GitHub stats](https://github-readme-stats.vercel.app/api?username=XxpichoclesxX&show_icons=true&theme=radical)
+
+<br />
+<br />
+
 ### Redes sociales:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -28,7 +33,3 @@ Thx for reading this c:
 </details>
 
 [twitter]: https://twitter.com/XxpichoclesxxP
-
-![Pichocles GitHub stats](https://github-readme-stats.vercel.app/api?username=XxpichoclesxX&show_icons=true&theme=radical)
-
-
