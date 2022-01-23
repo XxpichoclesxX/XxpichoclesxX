@@ -37,6 +37,7 @@ Thx for reading this c:
 
 <br />
 
+[![Actividad de picho](https://activity-graph.herokuapp.com/graph?username=XxpichoclesxX)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
