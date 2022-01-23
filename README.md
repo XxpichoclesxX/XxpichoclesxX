@@ -36,11 +36,6 @@ Thx for reading this c:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" >
 
 <br />
-<br />
-
-[![Actividad de picho](https://activity-graph.herokuapp.com/graph?username=XxpichoclesxX)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxpichoclesxx&" alt="xxpichoclesxx" /></p>
 
 </details>
 
