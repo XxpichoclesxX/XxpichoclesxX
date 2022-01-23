@@ -29,6 +29,6 @@ Thx for reading this c:
 
 [twitter]: https://twitter.com/XxpichoclesxxP
 
-![Pichocles github stats](https://github-readme-stats.vercel.app/api?XxpichoclesxX=anuraghazra&count_private=true)
+![Pichocles github stats](https://github-readme-stats.vercel.app/api?xxpichoclesxx=anuraghazra&count_private=true)
 
 
