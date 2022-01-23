@@ -3,11 +3,8 @@ i just wanna help some people who search things or tools on the internet so, enj
 Leave me comments if you find errors that will help so much
 Thx for reading this c:
 
-˚　　　　　　　.　　　　.　　　　　　 ✦　　　　　˚　　　　　. ✦ 　　　　.   　 　✦　˚　　　　　*　　 　　　　　.　　　.　　　　　　˚ ✦　　˚　　　　　.　　˚　　　　　　✦　. ✦　　˚.　.　　　　　　˚ ✦　　˚　　　　　.　　˚　　　　　　.　　˚　　　　　　.　　˚　　　　　
-
 ![Pichocles GitHub stats](https://github-readme-stats.vercel.app/api?username=XxpichoclesxX&show_icons=true&theme=radical)
 
-<br />
 <br />
 
 ### Lenguajes usados:
