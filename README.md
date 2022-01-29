@@ -6,7 +6,7 @@ Thx for reading this c:
 ![Pichocles GitHub stats](https://github-readme-stats.vercel.app/api?username=XxpichoclesxX&show_icons=true&theme=radical)
 
 ### Lenguajes usados:
-[![Lenguajes top](https://github-readme-stats.vercel.app/api/top-langs/?username=XxpichoclesxX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Redes sociales:
 
