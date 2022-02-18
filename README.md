@@ -5,16 +5,16 @@ Thx for reading this c:
 
 ![Pichocles GitHub stats](https://github-readme-stats.vercel.app/api?username=XxpichoclesxX&show_icons=true&theme=radical)
 
-### Lenguajes usados:
+### Coding languages:
 [![Lenguajes top](https://github-readme-stats.vercel.app/api/top-langs/?username=XxpichoclesxX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Redes sociales:
+### Social Contacts:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
-### Lenguajes de programacion:
+### Coding languages:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" alt="Lua" width="26px" src="https://i.imgur.com/cnsLgB9.png" >
@@ -23,7 +23,7 @@ Thx for reading this c:
 <br />
 <br />
 
-### Estoy aprendiendo:
+### Im learning:
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" >
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" >
 <img align="left" alt="C++" width="26px" src="https://i.imgur.com/1wB5cHQ.png" >
@@ -32,7 +32,7 @@ Thx for reading this c:
 <br />
 <br />
 
-### Quiero aprender: 
+### I want to learn: 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" >
 
 <br />
