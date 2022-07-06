@@ -12,6 +12,12 @@ Thx for reading this c:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+</h5>
+<a href="https://discord.com/users/834604339188334643">
+<img src="https://lanyard-profile-readme.vercel.app/api/834604339188334643?animated=true" height=175px/>
+  </a>
+  
+<br>
 <br />
 
 ### Coding languages:
