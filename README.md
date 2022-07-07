@@ -16,7 +16,7 @@ Thx for reading this c:
 </a>  
   
   
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png"/>][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="62px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png"/>][twitter]
 
 <br>
 <br />
