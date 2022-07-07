@@ -10,14 +10,14 @@ Thx for reading this c:
 
 ### Social Contacts:
 
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png"/>][twitter]
-
-
 </h5>
 <a href="https://discord.com/users/834604339188334643">
 <img src="https://lanyard-profile-readme.vercel.app/api/834604339188334643?animated=true" height=175px/>
-  </a>  
+</a>  
+  
+  
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png"/>][twitter]
+
 <br>
 <br />
 
