@@ -46,6 +46,3 @@ Thx for reading this c:
 </details>
 
 [twitter]: https://twitter.com/XxpichoclesxxP
-
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="david-de-luna-diaz-157653252" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/david-de-luna-diaz-157653252?trk=profile-badge">David De Luna Diaz</a></div>
