@@ -3,6 +3,9 @@ i just wanna help some people who search things or tools on the internet so, enj
 Leave me comments if you find errors that will help so much
 Thx for reading this c:
 
+### Contact:
+Feel Free to contact me on: pichocles@ryez-inc.xyz
+
 ![Pichocles GitHub stats](https://github-readme-stats.vercel.app/api?username=XxpichoclesxX&show_icons=true&theme=radical)
 
 ### Coding languages:
