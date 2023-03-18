@@ -5,7 +5,7 @@ And please let me know if i have or if you find errors that will help so much.
 Thx for reading this c:
 
 ### Contact:
-pichocles@ryez-inc.xyz
+pichocles@ryze-inc.xyz
 
 ![Pichocles GitHub stats](https://github-readme-stats.vercel.app/api?username=XxpichoclesxX&show_icons=true&theme=radical)
 
