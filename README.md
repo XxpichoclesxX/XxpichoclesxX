@@ -25,7 +25,7 @@ pichocles@ryze-inc.xyz
 <br>
 <br />
 
-### My knowledge:
+### My Knowledge:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" alt="Lua" width="26px" src="https://i.imgur.com/cnsLgB9.png" >
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/nj3JbOj.png" >
@@ -33,7 +33,7 @@ pichocles@ryze-inc.xyz
 <br />
 <br />
 
-### Im Improving:
+### Im Improving On:
 <img align="left" alt="C++" width="26px" src="https://i.imgur.com/1wB5cHQ.png" >
 <img align="left" alt="C#" width="26px" src="https://i.imgur.com/1njh8Rb.png" >
 
