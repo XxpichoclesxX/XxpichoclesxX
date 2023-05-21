@@ -16,7 +16,7 @@ pichocles@ryze-inc.xyz
 ### Social Contacts:
 
 </h5>
-<a href="https://discord.com/users/834604339188334643">
+<a href="https://discord.com/users/880873485726003200">
 <img src="https://lanyard-profile-readme.vercel.app/api/834604339188334643?animated=true" height=175px/>
 </a>  
   
