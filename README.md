@@ -21,7 +21,7 @@ pichocles@ryze-inc.xyz
 </a>  
   
   
-[<img align="left" alt="codeSTACKr | Twitter" width="62px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png"/>][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="62px" src="https://pluspng.com/img-png/twitter-logo-png-logo-twitter-in-png-2500.png"/>][twitter]
 
 <br>
 <br />
