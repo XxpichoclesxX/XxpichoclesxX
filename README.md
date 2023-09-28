@@ -4,7 +4,7 @@ I'm here because i just want to help that kind of people who is 24/7 searching f
 And please let me know if i have or if you find errors that will help so much.
 Thx for reading this c:
 
-Majority of projects in this github are subject to [Ryze Technologies.](https://www.ryze-inc.xyz/)
+- Majority of projects in this github are subject to [Ryze Technologies.](https://www.ryze-inc.xyz/)
 ### Contact:
 pichocles@ryze-inc.xyz
 
