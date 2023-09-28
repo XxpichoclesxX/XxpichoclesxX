@@ -6,7 +6,7 @@ Thx for reading this c:
 
 - Majority of projects in this github are subject to [Ryze Technologies.](https://www.ryze-inc.xyz/)
 ### Contact:
-pichocles@ryze-inc.xyz
+- pichocles@ryze-inc.xyz
 
 ![Pichocles GitHub stats](https://github-readme-stats.vercel.app/api?username=XxpichoclesxX&show_icons=true&theme=radical)
 
