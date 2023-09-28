@@ -47,12 +47,6 @@ Thx for reading this c:
 <img align="left" alt="Blender" width="24px" src="https://i.imgur.com/qqb4lOF.png" >
 
 <br />
-<br />
-
-### I want to learn: 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" >
-
-<br />
 
 </details>
 
