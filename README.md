@@ -35,8 +35,8 @@ Thx for reading this c:
 <br />
 
 ### Im Improving On:
-<img align="left" alt="C++" width="26px" src="https://i.imgur.com/1wB5cHQ.png" >
-<img align="left" alt="C#" width="26px" src="https://i.imgur.com/1njh8Rb.png" >
+<img align="middle" alt="C++" width="26px" src="https://i.imgur.com/1wB5cHQ.png" >
+<img align="middle" alt="C#" width="26px" src="https://i.imgur.com/1njh8Rb.png" >
 
 <br />
 <br />
