@@ -38,6 +38,7 @@ Thx for reading this c:
 ### Im Improving On:
 <img align="left" alt="C++" width="26px" src="https://i.imgur.com/1wB5cHQ.png" >
 <img align="left" alt="C#" width="26px" src="https://i.imgur.com/1njh8Rb.png" >
+<br>
 <br />
 ### Im learning:
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" >
