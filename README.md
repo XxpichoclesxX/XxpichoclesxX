@@ -15,12 +15,7 @@ Thx for reading this c:
 
 ### Social Contacts:
 
-</h5>
-<a href="https://discord.com/users/880873485726003200">
-<img src="https://lanyard-profile-readme.vercel.app/api/834604339188334643?animated=true" height=175px/>
-</a>  
-  
-  
+[![Discord Contact](https://lanyard.cnrad.dev/api/880873485726003200)](https://discord.com/users/880873485726003200)
 [<img align="left" alt="codeSTACKr | Twitter" width="62px" src="https://pluspng.com/img-png/twitter-logo-png-logo-twitter-in-png-2500.png"/>][twitter]
 
 <br>
