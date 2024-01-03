@@ -9,8 +9,8 @@ Thx for reading this c:
 - pichocles@ryze-inc.xyz
 - pichocles@absolute-menu.cloud
 ![Pichocles GitHub stats](https://github-readme-stats.vercel.app/api?username=XxpichoclesxX&show_icons=true&theme=radical)
-<br>
-<br />
+
+### Coding Languages:
 [![Lenguajes top](https://github-readme-stats.vercel.app/api/top-langs/?username=XxpichoclesxX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Social Contacts:
