@@ -6,11 +6,11 @@ Thx for reading this c:
 
 - Majority of projects in this github are subject to [Ryze Technologies.](https://www.ryze-inc.xyz/)
 ### Contact:
-- pichocles@ryze-inc.xyz - pichocles@absolute-menu.cloud
+- pichocles@ryze-inc.xyz || pichocles@absolute-menu.cloud
 
+### Stats:
 ![Pichocles GitHub stats](https://github-readme-stats.vercel.app/api?username=XxpichoclesxX&show_icons=true&theme=radical)
 
-### Coding Languages:
 [![Lenguajes top](https://github-readme-stats.vercel.app/api/top-langs/?username=XxpichoclesxX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Social Contacts:
