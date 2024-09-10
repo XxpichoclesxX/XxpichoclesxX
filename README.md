@@ -1,8 +1,8 @@
 ### About Me:
 - 👋 Hi, I’m Pichocles or @XxpichoclesxX on Github.
-I'm here because i just want to help that kind of people who is 24/7 searching for something they want and they don't find it, i make really interesting things and i have a variety of projects right now, my vision is to bring all we need into one space for free, so everyone can try what they deserve. Enjoy my stuff!
-And please let me know if i have or if you find errors that will help so much.
-Thx for reading this c:
+I'm here because i just want to help that kind of people who is 24/7 searching for something, i make really interesting projects and i have a variety of repos going now, my vision is to bring all we need into one space for free or in a cheap cost, so everyone can try what they deserve to try. Enjoy my projects!
+And please let me know if some repo has an error or if you find it, that will help so much this profile :).
+Thx for reading this.
 
 - Majority of projects in this github are subject to [Ryze Technologies.](https://ryze-tech.xyz)
 ### Contact:
