@@ -4,9 +4,9 @@ I'm here because i just want to help that kind of people who is 24/7 searching f
 And please let me know if some repo has an error or if you find it, that will help so much this profile :).
 Thx for reading this.
 
-- Majority of projects in this github are subject to [Ryze Technologies.](https://ryze-tech.xyz)
+- Majority of projects in this github are subject to [Ryze Technologies.](#)
 ### Contact:
-- pichocles@ryze-tech.xyz || pichocles@absolute-menu.cloud
+- DEAD MAIL || pichocles@pulsemenu.pro
 
 ### Stats:
 ![Pichocles GitHub stats](https://github-readme-stats.vercel.app/api?username=XxpichoclesxX&show_icons=true&theme=radical)
